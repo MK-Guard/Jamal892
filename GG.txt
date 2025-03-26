@@ -2,3 +2,4 @@ version.txt
 Config.lua
 C_MK-guard.lua
 S_MK-guard.lua
+meta.xml

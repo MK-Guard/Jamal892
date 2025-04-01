@@ -1,5 +1,5 @@
 version.txt
 Config.lua
-C_MK-guard.lua
-S_MK-guard.lua
+C_MK-guard.MKGuard
+S_MK-guard.MKGuard
 meta.xml
